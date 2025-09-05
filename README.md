@@ -23,15 +23,10 @@ By identifying different customer types, businesses can better design marketing 
 🗂️ Dataset
 
 Columns:
-
 CustomerID (ignored for clustering)
-
 Gender
-
 Age
-
 Annual Income (k$)
-
 Spending Score (1–100)
 
 For clustering, the main features are:
@@ -70,10 +65,9 @@ Install dependencies:
 
 Run the notebook or script:
 
-notebook Mall_Customer_Clustering.ipynb
+notebook customer_segmentation.ipynb
 or
-
-python mall_clustering.py
+app.py
 
 🔹 Option 2: Run with Streamlit (Interactive App)
 
@@ -96,20 +90,16 @@ Open the app in your browser at:
 Determined using the Elbow Method & Silhouette Score → Best k ≈ 5
 
 🔹 Identified Segments
-
 High Income, High Spending → “Target Customers” 💎
-
 Low Income, Low Spending → “Budget Customers” 💸
-
 High Income, Low Spending → “Potential Customers” 🧐
-
 Moderate Income, High Spending → “Impulsive Shoppers” 🎉
-
 Middle Income, Average Spending → “Regular Customers” 👨‍👩‍👧
 
 🔹 Visualization Example
 
-(insert a screenshot of your Streamlit app or cluster plot here)
+(insert a screenshot of your Streamlit app or cluster plot here) <img width="1167" height="353" alt="image" src="https://github.com/user-attachments/assets/91c0f3f9-d64d-4f58-92b1-91b1a3f44d70" />
+
 
 🔮 Bonus Work
 
