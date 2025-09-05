@@ -98,7 +98,10 @@ Middle Income, Average Spending → “Regular Customers” 👨‍👩‍👧
 
 🔹 Visualization Example
 
-(insert a screenshot of your Streamlit app or cluster plot here) <img width="1167" height="353" alt="image" src="https://github.com/user-attachments/assets/91c0f3f9-d64d-4f58-92b1-91b1a3f44d70" />
+(insert a screenshot of your Streamlit app or cluster plot here) 
+<img width="983" height="784" alt="image" src="https://github.com/user-attachments/assets/0f597f1f-5360-4894-bf87-e46e7b316836" />
+<img width="961" height="766" alt="image" src="https://github.com/user-attachments/assets/42c82b26-0233-4f42-aa90-3e78afc841d0" />
+<img width="801" height="793" alt="image" src="https://github.com/user-attachments/assets/6b64abe0-a226-4767-b33a-1de0b68e5267" />
 
 
 🔮 Bonus Work
